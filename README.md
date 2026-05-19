@@ -11,9 +11,10 @@
 
 ### 🚀 About Me
 
-I'm an AI Engineer and Full-Stack Developer with a unique background—Navy veteran, former pro hockey player, and current head coach of the Colombian national team. I bring the same discipline, strategy, and relentless drive for excellence from the ice and the military into my engineering career. 
+I'm an AI Engineer and Full-Stack Developer with Military and Sports background
 
-As the **Gauntlet AI G4 Champion**, I specialize in an **AI-first approach**, building intelligent systems that scale. I don't just write code; I engineer solutions for real-world problems, aiming to build multi-million dollar applications that are absolutely flawless. My focus is on creating robust, production-grade platforms that integrate advanced LLM orchestration, autonomous agents, and seamless user experiences.
+
+As the **Gauntlet AI G4 Champion**, I specialize in an **AI-first approach**, building intelligent systems that scale. I don't just write code; I engineer solutions for real-world problems, aiming to build full scale production. My focus is on creating robust, production-grade platforms that integrate advanced LLM orchestration, autonomous agents, and seamless user experiences.
 
 - 🔭 I’m currently building **AI-first, multi-million dollar scalable applications**.
 - 🌱 I’m constantly exploring **advanced LLM orchestration, autonomous agents, and real-time systems**.
