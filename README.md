@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>AI Engineer | Full-Stack Developer | Problem Solver</h3>
+  <h3>AI Engineer | Full-Stack Developer | Veteran</h3>
   <p>Building intelligent, scalable, and user-centric applications to solve real-world problems.</p>
 </div>
 
