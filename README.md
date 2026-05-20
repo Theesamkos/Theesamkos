@@ -55,19 +55,6 @@ A powerful AI client designed for seamless interaction and advanced conversation
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Theesamkos&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="Theesamkos's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theesamkos&theme=radical&hide_border=true&background=0D1117" alt="Theesamkos's GitHub streak" width="48%" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theesamkos&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
-</div>
-
----
-
 ### 🤝 Let's Connect!
 
 <div align="center">
