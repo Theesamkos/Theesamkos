@@ -38,7 +38,7 @@ A real-time computer vision math game for kids. Physical tiles are detected via 
 - **Tech:** TypeScript, React, Computer Vision, PWA
 - **Highlights:** Real-time physical-to-digital interaction, adaptive learning algorithms, and seamless multiplayer synchronization.
 
-#### 🤖 [Nerdy Autonomous Ad Engine](https://github.com/Theesamkos/nerdy-autonomous-ad-engine)
+#### 🤖 [Autonomous Ad Engine](https://github.com/Theesamkos/nerdy-autonomous-ad-engine)
 An autonomous pipeline that generates, evaluates, self-heals, and progressively improves Facebook & Instagram ad copy without human intervention. Built for the Nerdy / Varsity Tutors Gauntlet challenge.
 - **Tech:** TypeScript, Node.js, LLMs, Agentic Orchestration
 - **Highlights:** Self-healing feedback loops, quality ratchet, performance-per-token tracking, and fully autonomous operation.
